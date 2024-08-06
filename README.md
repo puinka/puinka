@@ -28,5 +28,5 @@
 
 
 ## 📂 Projects
-- [Reactf Burger]((https://github.com/puinka/react-burger))
+- [React Burger](https://github.com/puinka/react-burger)
 - [Algorithms animation](https://github.com/puinka/algososh)
